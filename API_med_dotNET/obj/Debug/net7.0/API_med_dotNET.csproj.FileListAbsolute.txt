@@ -86,3 +86,4 @@ C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\bin\Debug\net
 C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\bin\Debug\net7.0\runtimes\win-x64\native\msvcp140.dll
 C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140.dll
 C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\bin\Debug\net7.0\runtimes\win-x64\native\vcruntime140_1.dll
+C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\obj\Debug\net7.0\API_med_dotNET.sourcelink.json
