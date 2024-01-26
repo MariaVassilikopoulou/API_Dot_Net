@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAATsC0DZVmpUq8TklGo6jgCAAAAAACAAAAAAAQZgAAAAEAACAAAADuH/G8+p1COyiIPH3VVfokdKi4uMGD1gAJHDbxPtMOiwAAAAAOgAAAAAIAACAAAAD4nGvwC3VnNzNeBbNTrIhEaSb2K924OQTRA9dci4+mkYAAAAByGkqP3T+w7a32/aEQV4v8+SXl0sD6CgSS3sVljd55g4i47iG3XqRGESyl2Hg7pjMerpOTY1dkdmTAxj3ymBfMbH9XHfDuYEdPcqRvYUxDfzMqUofC0yz38/MjM2I4zpChcDgb6CGbkbD3kPNIzbpQyjWAQaa3ftC1f/leRk+GrEAAAAAJwd3C3IB/eAEVhCHT9P887nPjtMPYYdvg5hfrtMen0WOfIkrevbCc5kw1xOBjmjKQ7Foi4tDTr2O8mM+93nYH</EncryptedPassword>
+    <History>True|2024-01-26T10:23:27.9887536Z;True|2024-01-26T11:20:42.6569724+01:00;True|2024-01-25T22:50:50.3278158+01:00;True|2024-01-25T22:48:11.6770143+01:00;True|2024-01-25T21:49:30.7893685+01:00;False|2024-01-25T21:46:51.1788417+01:00;False|2024-01-25T21:45:44.2995418+01:00;False|2024-01-25T21:44:08.2997235+01:00;False|2024-01-25T21:32:39.9505847+01:00;False|2024-01-25T21:29:55.6015098+01:00;False|2024-01-25T21:16:44.1612241+01:00;True|2024-01-25T21:00:37.3315653+01:00;True|2024-01-25T19:32:33.6696442+01:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="API_med_dotNET.DataContext">
+      <Value>Data Source=dotnetapi.database.windows.net,1433%3bInitial Catalog=API_med_dotNET%3bUser ID=admin123%3bPassword=Dotnetapi!</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

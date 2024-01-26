@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "apis1": {
+      "restored": true,
+      "restoreTime": "2024-01-25T21:50:16.1821162Z"
+    },
+    "mssql1": {
+      "restored": true,
+      "restoreTime": "2024-01-25T21:31:41.3467814Z"
+    }
+  },
+  "parameters": {
+    "mssql1.subscriptionId": {
+      "Name": "mssql1.subscriptionId",
+      "Type": "subscription",
+      "Value": "b81c4582-b581-43c5-8f86-3b4cce46369c"
+    },
+    "mssql1.resourceGroupName": {
+      "Name": "mssql1.resourceGroupName",
+      "Type": "resourceGroup",
+      "Value": "Maria-dotnetAPI-RG"
+    }
+  }
+}

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\obj\Release\net7.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\vasil\Desktop\PRWTO_SXOLEIO\API_med_dotNET\API_med_dotNET\obj\Release\net7.0\PubTmp\EFSQLScripts\API_med_dotNET.DataContext.sql" />
+</sitemanifest>
